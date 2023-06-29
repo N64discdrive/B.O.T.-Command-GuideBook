@@ -1,5 +1,5 @@
 # B.O.T. Command GuideBook
- A short discription and guide on all the BuilderTools and BlockSniper commands.
+ A short discription and guide on all the building related PocketMine commands.
 ## COMMAND LIST
 
 > **__[Tool Commands]__**
