@@ -200,7 +200,7 @@ Changes the size of the specified shape when using brush.
 
 changes the width of specified shape when using brush.
 
-• Brush Hight
+• Brush Height
 
 changes the height of specified shape when using brush.
 
@@ -317,9 +317,9 @@ Note: MW's with spaces in the name will require you to type the name out using "
 
 __EXAMPLE:__
 
-• /mw create 0 skyblock
+• /mw create test 0 skyblock
 
-This command will generate a void world with a singal skyblock island at spawn.
+This command will generate a void world with a singal skyblock island at spawn and the world will be named "test".
 
 ## BUILDERTOOLS SCHEMATIC GUIDE
 
