@@ -233,9 +233,13 @@ Smooths out a section of blocks.
 Command: /mw create <name> [seed] {generator}
 
 > *__Avalible generators__*
+
 • Nether
+
 • End
+
 • Skyblock
+
 • Void
 
 > *__Command Usage:__* 
