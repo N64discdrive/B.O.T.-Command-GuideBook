@@ -229,6 +229,7 @@ Command: /mw create <name> [seed] {generator}
 • Void
 
 > *__Command Usage:__* 
+
 <name> is what you would like to name the MW you are creating this can be anything. [Seed] is the world seed which you would like to have generated (this is typically 0). {Generator} is where you specify the world generator type of which you desire to make.
 
 Note: MW's with spaces in the name will require you to type the name out using "" for it to be recognized properly.
