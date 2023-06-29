@@ -173,6 +173,7 @@ Will place specified shape with a hollow interior when using the brush.
 Specifies what blocks to place while using brush.
 
 > *__[Usage]__*
+
 To acess the brush menu hold a __blaze rod__ in player hand. Once all menu settings have been selected hold the __blaze rod__ in player hand and point the crosshair in the direction of which you desire the blocks to be placed, and right click to start placing with the brush. If you wish to stop using the brush select a differnt hot-bar slot then the one with the __blaze rod__.
 
 > *__[Brush-Type List]__*
