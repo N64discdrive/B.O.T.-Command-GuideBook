@@ -119,6 +119,7 @@ Command: //draw <Shape> [Brush size 1-10] {Gravity true/false}
 (Note: there are also hollow variants of each shape far example "hsphere" for a hollow sphere)
 
 > *__Command Usage:__* 
+
 <shape> contains the shape you would like to place while drawing. [Brush Size 1-10] is the specified size of the shape which you have selected in previous statement. {Gravity True/False} specifies weather or not to have the blocks fall to ground level once placed. "//draw off" will turn off brush tool.
 
 :warning: BE SURE TO __ALWAYS__ RUN "//draw off" WHENEVER YOU'RE FINISHED USING THE COMMAND TO AVOID ACCIDENTAL BLOCK PLACEMENT.
