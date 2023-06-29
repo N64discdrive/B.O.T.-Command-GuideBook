@@ -113,9 +113,13 @@ Creates a island of specified blocks and size on the position of the player.
 Command: //draw <Shape> [Brush size 1-10] {Gravity true/false}
 
 > __*Avilable Shapes*__
+
 • Sphere
+
 • Cube
+
 • Cylinder
+
 (Note: there are also hollow variants of each shape far example "hsphere" for a hollow sphere)
 
 > *__Command Usage:__* 
@@ -125,10 +129,13 @@ Command: //draw <Shape> [Brush size 1-10] {Gravity true/false}
 :warning: BE SURE TO __ALWAYS__ RUN "//draw off" WHENEVER YOU'RE FINISHED USING THE COMMAND TO AVOID ACCIDENTAL BLOCK PLACEMENT.
 
 > *__Tool Usage:__* 
+
 Once a brush is active it will will draw with whatever block the player is holding in their hand, to draw simply right click pointing your crosshair where you'd desire the shape to be drawn. If you wish to erase blocks hold the axe-wand in the player hand and right click pointing your crosshair in the direction of the area you would like to erase.
 
 __EXAMPLE:__ 
+
 • //draw sphere 5 false
+
 This command will allow me to draw a sphere that is size 5 and has no gravity properties turned on (this excludes blocks that are affected by gravity by default such as sand).
 
 
@@ -169,6 +176,7 @@ Specifies what blocks to place while using brush.
 To acess the brush menu hold a __blaze rod__ in player hand. Once all menu settings have been selected hold the __blaze rod__ in player hand and point the crosshair in the direction of which you desire the blocks to be placed, and right click to start placing with the brush. If you wish to stop using the brush select a differnt hot-bar slot then the one with the __blaze rod__.
 
 > *__[Brush-Type List]__*
+
 **_-Biome_**
 Alters the biome of a region.
 
