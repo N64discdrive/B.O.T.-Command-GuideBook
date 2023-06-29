@@ -257,6 +257,7 @@ This command will generate a void world with a singal skyblock island at spawn.
 Command: //schem <load|create|list|paste> [file name]
 
 > *__[Creating a Schematic]__*
+
 To create a schematic file using BuilderTools you must first select the desired region using the BuilderTools wand. Once a region is selected run the command //schem <create> [name].
 
 *__Command Usage:__*
