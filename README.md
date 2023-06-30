@@ -75,7 +75,7 @@ selected region 20 blocks on the x axis).
 
 Copies selected region in specified direction the number of times listed and pastes based off of origin of selected region.
 
-**_//fill <id1:dmg1,id2,...>_** (or) **_//set_** (or) **_//change_** 
+**_//fill <id1,dmg1,id2,...>_** (or) **_//set_** (or) **_//change_** 
 
 Fills the selected region with specified blocks.
 
@@ -83,7 +83,7 @@ Fills the selected region with specified blocks.
 
 Replaces specified blocks inside selected region with blocks stated in the second statement.
 
-**_//outline <id1:dmg1,id2,...>_** 
+**_//outline <id1,dmg1,id2,...>_** 
 
 Fills selected region with specified blocks leaving a hollow interior.
 
@@ -143,7 +143,7 @@ Creates a island of specified blocks and size on the position of the player.
 
 
 ## //DRAW GUIDE
-Command: //draw <Shape> [Brush size 1-10] {Gravity true/false}
+Command: //draw <shape> [brush size 1-10] {Gravity true/false}
 
 > __*Avilable Shapes*__
 
@@ -174,7 +174,7 @@ This command will allow me to draw a sphere that is size 5 and has no gravity pr
 
 ## BLOCK-SNIPER GUIDE
 
-> *__[Brush Menu]__*
+> *__Brush Menu__*
 
 • Bush Mode
 
@@ -223,7 +223,7 @@ Will place specified shape with a hollow interior when using the brush.
 
 Specifies what blocks to place while using brush.
 
-> *__[Usage]__*
+> *__Tool Usage__*
 
 To acess the brush menu hold a __blaze rod__ in player hand. Once all menu settings have been selected hold the __blaze rod__ in player hand and point the crosshair in the direction of which you desire the blocks to be placed, and right click to start placing with the brush. If you wish to stop using the brush select a differnt hot-bar slot then the one with the __blaze rod__.
 
@@ -325,11 +325,11 @@ This command will generate a void world with a singal skyblock island at spawn a
 
 Command: //schem <load|create|list|paste> [file name]
 
-> *__[Creating a Schematic]__*
+> *__Creating a Schematic__*
 
 To create a schematic file using BuilderTools you must first select the desired region using the BuilderTools wand. Once a region is selected run the command //schem <create> [name].
 
-*__Command Usage:__*
+> *__Command Usage:__*
 
 <Load> loads the specified schematic file. <Create> is the command to type when creating a new schematic. <List> Displays a list of all schematic files on the server. <Paste> places thje specifide schematic into the world. [Name] is where you place the name of the desired schematic file (unless you are creating a new schematic then [name] is where you place the name of which you would like to call your new schematic file).
 
