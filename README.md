@@ -143,7 +143,7 @@ Creates a island of specified blocks and size on the position of the player.
 
 
 ## //DRAW GUIDE
-Command: //draw <shape> [brush size 1-10] {Gravity true/false}
+Command: //draw (shape) [brush size 1-10] {Gravity true/false}
 
 > __*Avilable Shapes*__
 
@@ -157,7 +157,7 @@ Command: //draw <shape> [brush size 1-10] {Gravity true/false}
 
 > *__Command Usage:__* 
 
-<shape> contains the shape you would like to place while drawing. [Brush Size 1-10] is the specified size of the shape which you have selected in previous statement. {Gravity True/False} specifies weather or not to have the blocks fall to ground level once placed. "//draw off" will turn off brush tool.
+(shape) contains the shape you would like to place while drawing. [Brush Size 1-10] is the specified size of the shape which you have selected in previous statement. {Gravity True/False} specifies weather or not to have the blocks fall to ground level once placed. "//draw off" will turn off brush tool.
 
 :warning: BE SURE TO __ALWAYS__ RUN "//draw off" WHENEVER YOU'RE FINISHED USING THE COMMAND TO AVOID ACCIDENTAL BLOCK PLACEMENT.
 
@@ -293,11 +293,9 @@ Affects blocks as fire would, for example burning leafs.
 
 Smooths out a section of blocks.
 
-## MULTI-WORLD GUIDE
+## MULTI-WORLD CREATION GUIDE
 
-> *__[Creating a New MW]__*
-
-Command: /mw create <name> [seed] {generator}
+Command: /mw create (name) [seed] {generator}
 
 > *__Avalible generators__*
 
@@ -311,7 +309,7 @@ Command: /mw create <name> [seed] {generator}
 
 > *__Command Usage:__* 
 
-<name> is what you would like to name the MW you are creating this can be anything. [Seed] is the world seed which you would like to have generated (this is typically 0). {Generator} is where you specify the world generator type of which you desire to make.
+(name) is what you would like to name the MW you are creating this can be anything. [Seed] is the world seed which you would like to have generated (this is typically 0). {Generator} is where you specify the world generator type of which you desire to make.
 
 Note: MW's with spaces in the name will require you to type the name out using "" for it to be recognized properly.
 
@@ -323,7 +321,7 @@ This command will generate a void world with a singal skyblock island at spawn a
 
 ## BUILDERTOOLS SCHEMATIC GUIDE
 
-Command: //schem <load|create|list|paste> [file name]
+Command: //schem (load|create|list|paste) [file name]
 
 > *__Creating a Schematic__*
 
@@ -331,7 +329,7 @@ To create a schematic file using BuilderTools you must first select the desired 
 
 > *__Command Usage:__*
 
-<Load> loads the specified schematic file. <Create> is the command to type when creating a new schematic. <List> Displays a list of all schematic files on the server. <Paste> places thje specifide schematic into the world. [Name] is where you place the name of the desired schematic file (unless you are creating a new schematic then [name] is where you place the name of which you would like to call your new schematic file).
+(Load) loads the specified schematic file. <Create> is the command to type when creating a new schematic. <List> Displays a list of all schematic files on the server. <Paste> places thje specifide schematic into the world. [Name] is where you place the name of the desired schematic file (unless you are creating a new schematic then [name] is where you place the name of which you would like to call your new schematic file).
 
 __EXAMPLE:__
 
