@@ -4,7 +4,7 @@
 
 > **__[Tool Commands]__**
 
-**_//commands <page: 1-4>    _** 
+**_//commands <page: 1-4>_** 
 
 Displays list BuilderTools commands.
 
